@@ -1,216 +1,1920 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1732423943721 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1732424957364 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-answers-shannon.gl.joinmc.link => 127.0.0.1:4617 (minecraft-java)
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732423946776 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732424960432 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-answers-shannon.gl.joinmc.link => 127.0.0.1:4617 (minecraft-java)
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732423949849 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732424963505 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-answers-shannon.gl.joinmc.link => 127.0.0.1:4617 (minecraft-java)
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732423952903 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732424966607 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-answers-shannon.gl.joinmc.link => 127.0.0.1:4617 (minecraft-java)
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732423955991 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732424969684 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-answers-shannon.gl.joinmc.link => 127.0.0.1:4617 (minecraft-java)
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732423959048 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732424972770 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-answers-shannon.gl.joinmc.link => 127.0.0.1:4617 (minecraft-java)
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732423962114 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732424975832 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-answers-shannon.gl.joinmc.link => 127.0.0.1:4617 (minecraft-java)
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732423965190 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732424978893 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-answers-shannon.gl.joinmc.link => 127.0.0.1:4617 (minecraft-java)
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732423968248 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732424981951 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-answers-shannon.gl.joinmc.link => 127.0.0.1:4617 (minecraft-java)
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732423971320 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732424985035 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-answers-shannon.gl.joinmc.link => 127.0.0.1:4617 (minecraft-java)
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732423974393 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732424988108 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-answers-shannon.gl.joinmc.link => 127.0.0.1:4617 (minecraft-java)
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732423977459 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732424991168 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-answers-shannon.gl.joinmc.link => 127.0.0.1:4617 (minecraft-java)
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732423980532 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732424994233 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-answers-shannon.gl.joinmc.link => 127.0.0.1:4617 (minecraft-java)
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732423983592 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732424997289 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-answers-shannon.gl.joinmc.link => 127.0.0.1:4617 (minecraft-java)
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732423986649 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732425000351 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-answers-shannon.gl.joinmc.link => 127.0.0.1:4617 (minecraft-java)
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732423989726 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732425003404 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-answers-shannon.gl.joinmc.link => 127.0.0.1:4617 (minecraft-java)
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732423992788 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732425006470 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-answers-shannon.gl.joinmc.link => 127.0.0.1:4617 (minecraft-java)
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732423995869 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732425009540 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-answers-shannon.gl.joinmc.link => 127.0.0.1:4617 (minecraft-java)
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732423998935 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732425012600 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-answers-shannon.gl.joinmc.link => 127.0.0.1:4617 (minecraft-java)
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732424002144 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732425015656 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-answers-shannon.gl.joinmc.link => 127.0.0.1:4617 (minecraft-java)
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732424005212 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732425018713 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-answers-shannon.gl.joinmc.link => 127.0.0.1:4617 (minecraft-java)
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732424008277 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732425021825 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-answers-shannon.gl.joinmc.link => 127.0.0.1:4617 (minecraft-java)
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732424011375 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732425024895 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-answers-shannon.gl.joinmc.link => 127.0.0.1:4617 (minecraft-java)
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732424014432 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732425027988 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-answers-shannon.gl.joinmc.link => 127.0.0.1:4617 (minecraft-java)
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732424017492 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732425031056 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-answers-shannon.gl.joinmc.link => 127.0.0.1:4617 (minecraft-java)
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732424020556 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732425034114 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-answers-shannon.gl.joinmc.link => 127.0.0.1:4617 (minecraft-java)
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732424023612 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732425037172 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-answers-shannon.gl.joinmc.link => 127.0.0.1:4617 (minecraft-java)
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732424026672 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732425040251 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-answers-shannon.gl.joinmc.link => 127.0.0.1:4617 (minecraft-java)
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732424029734 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732425043327 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-answers-shannon.gl.joinmc.link => 127.0.0.1:4617 (minecraft-java)
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732424033026 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732425046397 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-answers-shannon.gl.joinmc.link => 127.0.0.1:4617 (minecraft-java)
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732424036092 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732425049483 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-answers-shannon.gl.joinmc.link => 127.0.0.1:4617 (minecraft-java)
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732424039166 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732425052543 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-answers-shannon.gl.joinmc.link => 127.0.0.1:4617 (minecraft-java)
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732424042248 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732425055606 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-answers-shannon.gl.joinmc.link => 127.0.0.1:4617 (minecraft-java)
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732424045342 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732425058693 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-answers-shannon.gl.joinmc.link => 127.0.0.1:4617 (minecraft-java)
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732424048457 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732425061753 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-answers-shannon.gl.joinmc.link => 127.0.0.1:4617 (minecraft-java)
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732424051566 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732425064819 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-answers-shannon.gl.joinmc.link => 127.0.0.1:4617 (minecraft-java)
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425067877 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425070937 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425073999 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425077087 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425080146 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425083212 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425086273 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425089340 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425092399 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425095482 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425098543 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425101598 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425104667 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425107736 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425110793 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425113860 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425116925 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425119990 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425123046 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425126144 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425129206 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425132261 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425135330 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425138383 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425141438 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425144496 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425147550 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425150623 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425153678 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425156736 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425159814 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425162881 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425165951 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425169008 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425172063 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425175117 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425178175 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425181476 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425184533 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425187599 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425190662 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425193713 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425196767 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425199825 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425202880 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425205933 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425208994 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425212070 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425215135 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425218199 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425221256 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425224319 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425227376 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425230432 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425233485 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425236540 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425239594 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425242648 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425245718 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425248783 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425251975 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425255041 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425258119 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425261191 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425264250 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425267398 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425270464 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425273540 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425276607 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425279736 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425282792 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425285857 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425289008 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425292064 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425295119 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425298195 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425301265 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425304324 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425307385 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425310501 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425313602 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425316677 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425319757 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425322811 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425325867 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425328945 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425332004 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425335058 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425338117 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425341186 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425344255 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425347313 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425350369 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425353425 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425356495 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425359555 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425362610 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425365669 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425368731 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425371807 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425374875 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425377943 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425381011 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425384078 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425387141 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425390215 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425393272 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425396358 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425399412 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425402470 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425405530 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425408587 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425411645 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425414712 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425417789 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425420858 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425423921 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425426979 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425430139 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425433213 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425436274 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425439341 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425442436 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425445498 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425448567 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425451699 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425454759 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425457811 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425460870 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425463925 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425466984 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425470094 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425473150 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425476292 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425479347 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425482471 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425485527 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425488627 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425491788 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425494853 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425497920 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425500976 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425504036 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425507096 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425510156 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425513219 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425516287 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425519368 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425522433 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425525493 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425528558 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425531617 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425534694 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425537749 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425540816 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425543878 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425546939 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425550004 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425553074 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425556150 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425559220 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425562281 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425565348 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425568420 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425571481 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425574578 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425577653 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425580726 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425583793 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425586867 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425589952 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425593025 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425596082 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425599216 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425602280 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425605338 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425608398 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425611528 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425614591 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425617664 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425620725 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425623789 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425626847 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425629980 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425633049 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425636111 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425639176 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425642245 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425645304 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425648373 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425651443 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425654514 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425657581 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425660656 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425663715 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425666777 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425669838 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425672903 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425675984 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425679050 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425682106 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425685166 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425688239 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425691341 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425694403 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425697458 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425700522 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425703597 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425706676 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425709738 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425712808 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425716057 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425719114 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425722169 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425725224 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425728295 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425731373 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425734432 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425737489 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425740561 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425743662 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425746734 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425749804 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425752882 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425755935 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425758999 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425762063 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425765123 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425768178 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425771243 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425774295 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425777351 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425780405 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425783463 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425786519 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425789603 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425792674 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425795732 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425798796 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425801865 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425804951 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425808005 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425811069 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425814128 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425817193 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425820260 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425823340 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425826399 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425829460 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425832532 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425835598 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425838670 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425841739 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425844809 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425847872 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425851001 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425854092 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425857147 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425860248 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425863303 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425866376 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425869442 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425872538 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425875616 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425878669 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425881736 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425884790 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425888002 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425891058 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425894151 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425897238 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425900466 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425903532 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425906609 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425909680 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425912737 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425915801 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425918873 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425921930 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425924990 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425928052 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425931111 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425934216 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732425937275 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+answers-shannon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 net-czech.gl.at.ply.gg:1146 => 127.0.0.1:1146 (proto: Udp, port count: 1)
